@@ -1,6 +1,3 @@
-<img src="https://avatars.githubusercontent.com/u/194265487?v=4" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
-# أخي زَكَرِيَّا
 ### Open Source Contributor
 
 Passionate software engineer
