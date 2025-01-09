@@ -8,6 +8,6 @@ Passionate software engineer
 
 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n19Akhy&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n19Akhy&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0-RSP&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0-RSP&theme=dark" alt="GitHub Streak" />
 </p>
