@@ -11,3 +11,4 @@ Passionate software engineer
   <img src="https://github-readme-stats.vercel.app/api?username=0-RSP&show_icons=true&theme=dark" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=0-RSP" alt="GitHub Streak" />
 </p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=0-RSP&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
