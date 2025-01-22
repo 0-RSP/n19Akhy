@@ -4,7 +4,7 @@ Passionate software engineer
 
 🛠️ **Tech Stack**
 - Intermediate: `Assembly (x86_64)` `python` `WEB (HTML, CSS, JavaScript)` `C/CPP`
-- Beginner: `React` `Kotlin`
+- Beginner: `React` `Kotlin` `SQL` `C#` 
 
 📊 **GitHub Stats**
 <p align="center">
